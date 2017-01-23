@@ -1,3 +1,4 @@
 bcd filter=lfs diff=lfs merge=lfs -text
 abc filter=lfs diff=lfs merge=lfs -text
 cde filter=lfs diff=lfs merge=lfs -text
+def filter=lfs diff=lfs merge=lfs -text
